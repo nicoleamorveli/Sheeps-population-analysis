@@ -1,4 +1,4 @@
-README - Exploring Factors That Shape Soay Sheep's Weight
+Exploring Factors That Shape Soay Sheep's Weight
 Project Overview
 This project explores how climatic and biological factors influence the weight of Soay sheep, with a focus on the North Atlantic Oscillation (NAO). The study aims to identify the impact of both internal (sex, age) and external (climatic) factors on weight changes over time. Generalized linear and mixed models were used to examine these relationships.
 
